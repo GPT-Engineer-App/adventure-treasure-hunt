@@ -23,6 +23,9 @@ const Index = () => {
               <NavigationMenuItem>
                 <NavigationMenuLink href="#tourism-info">Tourism Info</NavigationMenuLink>
               </NavigationMenuItem>
+              <NavigationMenuItem>
+                <NavigationMenuLink href="/profile">Profile</NavigationMenuLink>
+              </NavigationMenuItem>
             </div>
           </NavigationMenuList>
         </NavigationMenu>
